@@ -1,26 +1,34 @@
-## Hi there, I'm Matheus! 👋
+## Hi there, I'm Oliver! 👋
 
 
 
+### About me
+- I am majoring in computer engineering, and I already have a degree in mechatronics technician.
+- I have been working as a fullstack developer.
+- I was an intern at Siemens LDA-BR in a project to develop mobile and web applications.
 
 
+---
 
+### What am I up to?
+I prefer to work on projects that challenge me at every moment. Working in the same way, just repeating code is not really my thing, and this will probably soon be automated by an A.I.
 
-### I work with mobile development for android and IOS.
-##### What am I up to?
-
-- I'm currently developing some stuff in Flutter and Java at IMD.
-- I've been learning about microprocessor and electronics to build my own costum board.
-	
 	
 #### Tech preferences
 
 | |                       |                                                           |
 |-|-----------------------|-----------------------------------------------------------|
-|🖥| **Operating System** | ArchLinux + Wayland + Swaywm                              |
+|🖥| **Operating System** | ArchLinux + KDE + Swaywm                              |
 |📺| **Terminal**         | Alacritty                                                 |
 |🐚| **Shell**            | zsh	                                                      |
-|📝| **Editor**           | Vim and vscode                                            | 
+|📝| **Editor**           | Vim and VSCode                                            | 
+
+
+### Linguages I do use most (In the moment).
+Beware that this DOES NOT REPRESENT MY KNOWLEDGE IN PROGRAMMING AND IN COMPUTING SCIENCE ITSELF!!!!!!!!!!!!!!!!. 
+#### BEWARE!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivermaths&langs_count=8&theme=onedark&custom_title=Languages%20I%20use%20most)](https://github.com/olivermaths/github-readme-stats)
 
 
 
