@@ -28,7 +28,7 @@ I prefer to work on projects that challenge me at every moment. Working in the s
 Beware that this DOES NOT REPRESENT MY KNOWLEDGE IN PROGRAMMING AND IN COMPUTING SCIENCE ITSELF!!!!!!!!!!!!!!!!. 
 #### BEWARE!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivermaths&langs_count=8&theme=onedark&custom_title=Languages%20I%20use%20most)](https://github.com/olivermaths/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivermaths&langs_count=10&theme=onedark&custom_title=Languages%20I%20use%20most)](https://github.com/olivermaths/github-readme-stats)
 
 
 
