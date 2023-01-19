@@ -18,31 +18,16 @@ I prefer to work on projects that challenge me at every moment. Working in the s
 
 | |                       |                                                           |
 |-|-----------------------|-----------------------------------------------------------|
-|🖥| **Operating System** | ArchLinux + KDE + Swaywm                              |
-|📺| **Terminal**         | Alacritty                                                 |
-|🐚| **Shell**            | zsh	                                                      |
-|📝| **Editor**           | Vim and VSCode                                            | 
+|🖥| **Operating System** | ArchLinux/Sway + Windows 11                             |
+|📺| **Terminal**         | Alacritty                                                |
+|🐚| **Shell**            | zsh, Fish, Powershell	                                                      |
+|📝| **Editor**           | Vim, VSCode, Visual Studio Community                                            | 
 
-
+<!--
 ### Linguages I do use most (In the moment).
 Beware that this DOES NOT REPRESENT MY KNOWLEDGE IN PROGRAMMING AND IN COMPUTING SCIENCE ITSELF!!!!!!!!!!!!!!!!. 
 #### BEWARE!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivermaths&langs_count=10&theme=onedark&custom_title=Languages%20I%20use%20most&layout=compact)](https://github.com/olivermaths/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivermaths&langs_count=10&theme=onedark&custom_title=Languages%20I%20use%20most&layout=compact)](https://github.com/olivermaths/github-readme-stats)
 
-
-
-<!--
-**olivermatheuxs/olivermatheuxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
